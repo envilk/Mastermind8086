@@ -1,3 +1,8 @@
+;Asignatura Introduccón a los Computadores de EPCC
+
+;AUTOR
+;Enrique Vilchez Campillejo
+
 include "entorno.asm"
 
 data segment 
