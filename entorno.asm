@@ -1,3 +1,9 @@
+;Asignatura Introduccón a los Computadores de EPCC
+
+;AUTORES
+;Marino Linaje Trigeros 
+;Pilar Bachiller
+
 C_INICIO1 EQU 0
 F_INICIO1 EQU 5
 C_INICIO2 EQU 5
